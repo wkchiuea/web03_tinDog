@@ -10,3 +10,7 @@ h1 {
     font-weight: 900; /* need to use font-family + font-weight */
 }
 
+.container-fluid {
+    padding: 3% 15%;
+}
+
