@@ -54,6 +54,18 @@ h1 {
     right: 30%
 }
 
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
 /* Features */
 
 #features {
@@ -133,3 +145,7 @@ h2 {
 .pricing-column {
     padding: 3% 2%;
 }
+
+
+
+
